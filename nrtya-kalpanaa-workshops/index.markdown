@@ -21,15 +21,29 @@ You should have at least a basic exposure to Bharata Natyam (or a similar classi
 There is a _Dakshina_ to participate in the workshop.
 
 #### Upcoming Workshops
- <tbd>
-
-#### All workshops
-
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
+{% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+{% for post in site.posts %}
+  {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
+  {% if date > now %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {{ post.excerpt }}
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+#### Past workshops
+<ul>
+{% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+{% for post in site.posts %}
+  {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
+  {% if date <= now %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {{ post.excerpt }}
+  </li>
+  {% endif %}
+{% endfor %}
 </ul>
