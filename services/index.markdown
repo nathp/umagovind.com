@@ -22,10 +22,10 @@ I conduct Bharatanatyam classes Online. Classes open for beginners and seniors. 
   A workshop usually needs 2 to 3 sessions, with each session being approximately 1 hour 30 minutes in duration.  Workshops are usually scheduled on weekends. You are encouraged to send in a video of your performance once you have learned the item. Individual guidance will be provided based on the video.  
 
 
-  See [Nrtya Kalpanaa series Online workshops](https://umagovind.com/nrtya-kalpanaa-workshops/) for details of upcoming programs.
+  See [Nrtya Kalpanaa series Online workshops](/nrtya-kalpanaa-workshops) for details of upcoming programs.
 
 
-To know more please [get in touch](http://umagovind.com/contact)
+To know more please [get in touch](/contact)
 
 ##### Testimonials about Workshops
 
