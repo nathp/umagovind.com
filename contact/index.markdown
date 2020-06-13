@@ -17,7 +17,7 @@ wordpress_id: 83
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-   <label>Phone: <input type="email" name="email" /></label>
+   <label>Phone: <input type="phone" name="phone" /></label>
    </p>
   <p>
     <label>Message: <textarea name="message"></textarea></label>
