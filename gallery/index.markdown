@@ -9,32 +9,9 @@ title: Gallery
 wordpress_id: 24
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qz3J2KELmgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J_AP5uA80Ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-
-https://www.youtube.com/watch?v=Qz3J2KELmgg
-
-
-
-
-
-
-
-
-
-https://www.youtube.com/watch?v=UfDrVC4eDD4
-
-
-
-
-
-
-
-
-  * ![](https://umagovind.files.wordpress.com/2020/06/uma-8-1.jpg?w=640)
-  * ![](https://umagovind.files.wordpress.com/2020/06/uma-7.jpg?w=404)
-  * ![](https://umagovind.files.wordpress.com/2020/06/fb_img_1582111477835.jpg?w=640)
-  * ![](https://umagovind.files.wordpress.com/2020/06/img-20160119-wa0023.jpg?w=600)
-
-
+{% include carousel.html height="120" unit="%" duration="7" %}

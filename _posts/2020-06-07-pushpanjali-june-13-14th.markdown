@@ -8,7 +8,6 @@ slug: pushpanjali-june-13-14th
 title: Pushpanjali – June 13, 14th 2020
 wordpress_id: 409
 series: nrtyakalpaa
-
 ---
 
 This is a pushpanjali in Raagamalika and talamalika. This has a nritta sequence followed by a Ganesha sloka. This is followed by a verses on Lord Murugan. It is about 6 minutes in duration.
