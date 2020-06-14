@@ -9,6 +9,10 @@ title: Uma Govind
 wordpress_id: 1
 ---
 
+<div class="custom-header-image" style="padding-top: 60%; background-image: url(/assets/images/uma-header.jpg);">
+</div>
+
+
 I become the stars and the moon.
 I become the lover and the beloved.
 I become the victor and the vanquished.
