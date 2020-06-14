@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "umagovind.com" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: "Asia/Kolkata"
 locale: en_IN
-
+show_excerpts: true
 
 facebook_username: "umaugovind"
 instagram_username: "umagovind"

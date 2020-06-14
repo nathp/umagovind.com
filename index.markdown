@@ -2,10 +2,11 @@
 author: umagovind
 comments: false
 date: 2016-03-10 15:35:19+00:00
-layout: page
+layout: home
 link: http://umagovind.com/
 slug: home
 title: Uma Govind
+list_title: Workshops
 wordpress_id: 1
 ---
 
