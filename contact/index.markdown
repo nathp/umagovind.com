@@ -10,21 +10,27 @@ wordpress_id: 83
 ---
 
 <form name="contact" method="POST" data-netlify="true">
+<fieldset>
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+   <label for="c_1">Your Name:</label>
+    <input type="text" name="name" id="c_1" />
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label for="c_2">Your Email:</label>
+    <input type="email" name="email" id="c_2"  />
   </p>
   <p>
-   <label>Phone: <input type="phone" name="phone" /></label>
+   <label for="c_3">Phone:</label>
+   <input type="tel" name="phone" id="c_3" />
    </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label for="c_4">Message:</label>
+    <textarea name="message" id="c_4"></textarea>
   </p>
   <p>
     <button type="submit">Send</button>
   </p>
+</fieldset>
 </form>
 
 
