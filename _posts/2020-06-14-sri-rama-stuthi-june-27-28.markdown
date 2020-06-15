@@ -11,12 +11,14 @@ series: nrtyakalpaa
 
 In this workshop, we will learn a Sri Rama Stuthi in Raagam Kapi and Talam Adi, composed by Vannamaamalai Jiyar Swami. This is about 7 minutes long.
 
+{% include soundcloud.html track_id="840420808"  %}
+<br/>
 This is an Abhinaya oriented Bharata Natyam item in praise of Lord Rama. It explores Bhakti rasa through various episodes from the epic, Ramayana.
 
 Audio and video will be provided as part of the course.
 
+#### Dates
 Time: 5pm to 6:30 PM, IST, June 27 and 28th
-
 Venue: Google Meet.
 
 To know more, [Get in touch](/contact)
