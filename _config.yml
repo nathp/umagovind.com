@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ignore me website
-email: govinda.uma@gmail.com
-tagline: more about X Y, Bharata natyam dancer
+title: Uma Govind
+email: govindan.uma@gmail.com
+tagline: more about Uma
 description: >- # this means to ignore newlines until "baseurl:"
-   Welcome to my website.
+   Uma Govind is a Bharata Natyam dancer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "umagovind.com" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: "Asia/Kolkata"

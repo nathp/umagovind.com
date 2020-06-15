@@ -32,20 +32,5 @@ wordpress_id: 83
   </p>
 </fieldset>
 </form>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
 Alternatively, you can email me at g o v i n d a n . u m a @ g m a i l . c o m   (without the spaces)

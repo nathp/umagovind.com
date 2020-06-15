@@ -17,30 +17,12 @@ Uma Govind has trained in Bharata Natyam under the supervision of Guru Smt. V My
 
 She is currently undergoing advanced training under Kalaimamani Smt Rama Vaidyanathan from Delhi and Smt Bragha Bessell (Abhinaya Exponent) from Chennai.
 
-
-
-
-
-
-
-
-
-
 #### Recognition
-
-
-
-
-
-
 
   * 'A' Grade' Artist in National Doordarshan.
   * Empanelled Artist with Indian Council for Cultural Relations(ICCR)
   * Empanelled Artist in SPIC MACAY
 
+She is the founder Director of Shri Prakruthi Arts, Bangalore.
 
-
-
-
-
-She has worked as a compere for the National Programme of Dance. She is the founder Director of Shri Prakruthi Arts, Bangalore.
+She has worked as a compere for the National Programme of Dance.
