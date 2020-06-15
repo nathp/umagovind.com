@@ -51,8 +51,13 @@ Explore the list below to know more about the item.
 {% endfor %}
 </ul>
 
+<br/>
 
-##### Testimonials about Workshops
+---
+
+<br/>
+##### Reviews about Workshops
+
 
 | ------------- |:-------------:|
 | How  likely are you to recommend this workshop to a dancer friend   | 9.4 / 10 |
