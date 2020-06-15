@@ -24,10 +24,9 @@ There is a _Dakshina_ to participate in the workshop.
 <ul>
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
 {% for post in site.posts %}
-  {% capture date %}{{post.date | date: '%s' | plus: 0 }}{% endcapture %}
+  {% capture date %}{{post.workshop_date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date > now %}
   <li>
-    {{date}} , {{now}}
     <a href="{{ post.url }}">{{ post.title }}</a>
     {{ post.excerpt }}
   </li>
@@ -37,9 +36,8 @@ There is a _Dakshina_ to participate in the workshop.
 
 #### Past workshops
 <ul>
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
 {% for post in site.posts %}
-  {% capture date %}{{post.date | date: '%s' | plus: 0 }}{% endcapture %}
+  {% capture date %}{{post.workshop_date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date <= now %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
