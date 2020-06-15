@@ -67,11 +67,12 @@ strong {
 
 /* --- Links --------------------------------------------------------------- */
 a {
-    color: #06e;
+    color: #222;
     text-decoration:none;
 }
+
 a:visited {
-    color: #06e;
+    color: #222;
 }
 a:hover {
     color: #06e;
@@ -440,4 +441,18 @@ label em {
 /* --- Override site footer  --------------------------------------------------------- */
 .site-footer {
   padding: 0px;
+}
+
+.home-navigation {
+    margin: 0 auto;
+    min-width: 33%;
+    padding-top: 30px;
+    text-align:center
+}
+
+.home-navigation a {
+  font-size: larger;
+  padding-left:15px;
+  padding-right: 15px;
+  display:inline-block;
 }

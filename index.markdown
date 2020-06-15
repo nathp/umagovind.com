@@ -27,3 +27,11 @@ I keep on dancing… and dancing… and dancing.
 Until there is only… the DANCE.
 
   Micheal Jackson
+
+---
+
+<div class="home-navigation">
+<a href="/about">About me</a>
+<a href="/services">Recitals, Classes and Workshops</a>
+<a href="/contact">Contact</a>
+</div>
