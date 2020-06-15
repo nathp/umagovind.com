@@ -11,7 +11,7 @@ wordpress_id: 24
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qz3J2KELmgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J_AP5uA80Ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rJ_GMlR1b7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 {% include carousel.html height="120" unit="%" duration="7" %}

@@ -52,7 +52,7 @@ html {
 body {
     color: #1a1a1a;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18px;
+    font-size: 1.125em;
     font-weight: 200;
     line-height: 1.5em;
     padding: 1em;
@@ -83,19 +83,19 @@ a:active {
 
 /* --- Headers ------------------------------------------------------------- */
 h1::before {
-    margin-right:10px;
+    margin-right:0.625em;
     color: white;
     background-color: black;
-    padding-left: 10px; padding-right:10px;
+    padding-left: 0.625em; padding-right:0.625em;
 }
 h2::before {
-    margin-right: 10px;
+    margin-right: 0.625em;
 }
 h3::before {
 /*
     content: counter(h1) "."counter(h2) "."counter(h3) " ";
     counter-increment: h3;
-    margin-right:10px;
+    margin-right:0.625em;
 */
 }
 
@@ -341,11 +341,11 @@ tr:nth-child(even) td {
     .legend {
         box-sizing: border-box;
         width: 80%;
-        margin: 10px auto;
+        margin: 0.625em auto;
         float: none;
-        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        box-shadow: 0 0 0.625em rgba(0,0,0,0.5);
         border-radius: 5px;
-        padding: 10px;
+        padding: 0.625em;
     }
 }
 
@@ -356,13 +356,13 @@ tr:nth-child(even) td {
     }
 
     body {
-        font-size: 16px;
+        font-size: 1em;
     }
 }
 
 @media all and (max-width: 500px) {
     body {
-        font-size: 14px;
+        font-size: 1em;
     }
 }
 
@@ -455,4 +455,11 @@ label em {
   padding-left:15px;
   padding-right: 15px;
   display:inline-block;
+}
+
+
+blockquote {
+  letter-spacing: normal;
+  color: #383838;
+  font-weight: 300;
 }
