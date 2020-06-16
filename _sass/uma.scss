@@ -15,7 +15,7 @@
 }
 
 @font-face{
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Sans ProL';
     font-weight: 100;
     font-style: normal;
     font-stretch: normal;
@@ -23,7 +23,7 @@
 }
 
 @font-face{
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Sans ProR';
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
@@ -31,7 +31,7 @@
 }
 
 @font-face{
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Sans ProLI';
     font-weight: 100;
     font-style: italic;
     font-stretch: normal;
@@ -51,7 +51,7 @@ html {
 
 body {
     color: #1a1a1a;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans ProL', sans-serif;
     font-size: 1.125em;
     font-weight: 300;
     line-height: 1.5em;
@@ -362,7 +362,9 @@ tr:nth-child(even) td {
 
 @media all and (max-width: 500px) {
     body {
-        font-size: 1em;
+        font-family: 'Source Sans ProR', sans-serif;
+        font-size: 1.3em;
+        font-weight:400;
     }
 }
 
