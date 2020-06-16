@@ -71,7 +71,7 @@ wordpress_id: 31
 
 
   * Performed “Brahmakalpa” a dance Production jointly composed and choreographed by Smt Rama Vaidyanathan & Ajith Baskaran Dass
-    * Temple of Fine Arts, Malayasis.
+    * Temple of Fine Arts, Malayasia.
     * The Esplanade, Singapore.
     * Kamani Auditorium, Delhi.
     * Nishagandhi Dance and Music Festival, Trivandrum, Kerala
@@ -96,5 +96,3 @@ wordpress_id: 31
     * My Madura, Mathurai.
     * Swaralaya Palakkad.
     * Kerala Sangeeth Natak Academy Ernakulam.
-
-
