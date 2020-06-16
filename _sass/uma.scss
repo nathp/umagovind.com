@@ -465,3 +465,23 @@ blockquote {
   color: #383838;
   font-weight: 300;
 }
+
+.workshop {
+   transition-duration: 0.4s;
+   background-color:#f2f2f2;
+   padding:10px;
+}
+
+.workshop:hover {
+  background-color: #cdcdcd;
+}
+
+.excerpt {
+  color:#1a1a1a;
+  text-decoration: none;
+}
+
+.excerpt:hover {
+  color:#1a1a1a;
+  text-decoration: none;
+}
