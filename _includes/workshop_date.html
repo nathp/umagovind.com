@@ -1,0 +1,20 @@
+
+#### Details
+<div class="workshop_details">
+ <li class="when">{{include.when}}</li>
+ <li>Venue: Google Meet</li>
+ <br/>
+</div>
+
+{% capture date %}{{include.date | date: '%s' | plus: 0 }}{% endcapture %}
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% if date > now %}
+  [Get in touch](/contact) to register or know more.
+{% else %}
+
+>This workshop is complete.
+>
+>Do [Get in touch](/contact) if you are would like to request a repeat of this workshop.
+>I can conduct one, if there is sufficient interest.
+{% endif %}
+<br/>
