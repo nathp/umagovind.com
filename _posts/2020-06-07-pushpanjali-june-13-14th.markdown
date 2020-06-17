@@ -19,3 +19,6 @@ This is a pushpanjali in Raagamalika and talamalika. This has a nritta sequence 
 {% include workshop_date.html when="June 13, 14 2020; 5pm to 6:30pm IST" date="2020-06-13 10:17:44+00:00"  %}
 
 ![](/assets/images/pushpanjali-2-1.jpeg)
+
+
+{% include review_snippet.html %}

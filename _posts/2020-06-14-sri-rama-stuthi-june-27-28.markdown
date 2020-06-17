@@ -21,6 +21,10 @@ This is an Abhinaya oriented Bharata Natyam item in praise of Lord Rama. It expl
 
 Audio and video will be provided as part of the course.
 
-{% include workshop_date.html when="June 27,28 2020 5 to 6:30 pm IST" date="2020-06-27 10:17:44 +0000" %}
+{% include workshop_date.html when="June 27,28 2020; 5 to 6:30 pm IST" date="2020-06-27 10:17:44 +0000" %}
 
 ![](/assets/images/nrtya_kalpanaa_2.png)
+<div/>
+
+
+{% include review_snippet.html %}
