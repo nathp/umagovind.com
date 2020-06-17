@@ -92,11 +92,7 @@ h2::before {
     margin-right: 0.625em;
 }
 h3::before {
-/*
-    content: counter(h1) "."counter(h2) "."counter(h3) " ";
-    counter-increment: h3;
     margin-right:0.625em;
-*/
 }
 
 
@@ -110,9 +106,15 @@ h1, h2, h3 {
     clear: both;
     font-weight: 400;
 }
-h1 { font-size: 1.5em;   padding-top: 0.5em;}
-h2 { font-size: 1.25em;  padding-top: 0.5em;}
-h3, h4, h5, h6 { font-size: 1.00em; }
+
+h1 { font-size: 2.9em;   padding-top: 0.5em; padding-bottom:0em; line-height: 0.9em;}
+h2 { font-size: 2.5em;  padding-top: 0.5em;}
+h3 { font-size: 2.2em;  padding-top: 0.5em;}
+h3 { font-size: 1.9em;  padding-top: 0.5em;}
+h4 { font-size: 1.5em;  padding-top: 0.5em;}
+
+/* h3, h4, h5, h6 { font-size: 1.00em; } */
+
 h1, h1 a, h1 a:visited,
 h2, h2 a, h2 a:visited,
 h3, h3 a, h3 a:visited {
