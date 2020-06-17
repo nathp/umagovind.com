@@ -31,9 +31,9 @@ Explore the list below to know more about the item.
 {% for post in site.posts %}
   {% capture date %}{{post.workshop_date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date > now %}
-  <li class="workshop">
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <a href="{{ post.url }}" class="excerpt">{{ post.excerpt }}</a>
+  <li class="workshop excerpt" onclick="location.href='{{ post.url }}'" >
+    <span class="workshop-title">{{ post.title }}</span>
+    {{ post.excerpt }}
   </li>
   {% endif %}
 {% endfor %}
@@ -44,9 +44,9 @@ Explore the list below to know more about the item.
 {% for post in site.posts %}
   {% capture date %}{{post.workshop_date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date <= now %}
-  <li class="workshop">
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <a href="{{ post.url }}" class="excerpt">{{ post.excerpt }}</a>
+  <li class="workshop excerpt" onclick="location.href='{{ post.url }}'" >
+    <span class="workshop-title">{{ post.title }}</span>
+    {{ post.excerpt }}
   </li>
   {% endif %}
 {% endfor %}

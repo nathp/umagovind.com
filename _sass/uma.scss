@@ -487,6 +487,7 @@ blockquote {
 .excerpt {
   color:#1a1a1a;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .excerpt:hover {
@@ -502,4 +503,8 @@ blockquote {
 }
 .workshop_details .when {
   font-weight: bold;
+}
+
+.workshop-title {
+  font-size:larger;
 }
