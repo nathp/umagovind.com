@@ -9,6 +9,8 @@ title: Reviews
 wordpress_id: 33
 ---
 
+### Reviews of Performances
+
 #### Play of captivating abhinaya | Nisha M | The Hindu, April 10, 2014
 
 
@@ -30,4 +32,7 @@ Full text: [The Hindu, April 10, '14](http://www.thehindu.com/features/friday-re
 
 Full text: [The Hindu, May 9th, '14](http://www.thehindu.com/todays-paper/tp-features/tp-fridayreview/a-touch-of-class/article5990306.ece)
 
+---
 
+### Reviews of classes and workshops
+[Show me](/reviews/workshops)

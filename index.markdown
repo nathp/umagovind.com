@@ -31,11 +31,3 @@ wordpress_id: 1
   - Michael Jackson
 </div>
 <br/>
-
----
-
-<div class="home-navigation">
-<a href="/about">About me</a>
-<a href="/services">Recitals, Classes and Workshops</a>
-<a href="/contact">Contact</a>
-</div>
