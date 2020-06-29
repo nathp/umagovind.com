@@ -361,16 +361,16 @@ tr:nth-child(even) td {
     }
 
     body {
-        font-size: 1em;
+        font-size: 1.1em;
     }
     .hide-on-desktop {
       display:none;
     }
 }
 
-@media all and (max-width: 400px) {
+@media all and (max-width: 500px) {
     body {
-        font-size: 1.1em;
+        font-size: 1.2em;
         font-weight:300;
     }
 
