@@ -338,6 +338,10 @@ tr:nth-child(even) td {
     border-bottom: 1px solid #000;
 }
 
+.hide-on-desktop {
+  display:none;
+}
+
 @media all and (max-width: 1400px) {
     .note,
     .legend {
@@ -349,9 +353,7 @@ tr:nth-child(even) td {
         border-radius: 5px;
         padding: 0.625em;
     }
-    .hide-on-desktop {
-      display:none;
-    }
+
 }
 
 @media all and (max-width: 870px) {
@@ -363,6 +365,7 @@ tr:nth-child(even) td {
     body {
         font-size: 1.1em;
     }
+
     .hide-on-desktop {
       display:none;
     }
@@ -385,6 +388,7 @@ tr:nth-child(even) td {
     .poem-author {
       display: none;
     }
+
     .hide-on-desktop {
       display:block;
     }
@@ -578,9 +582,13 @@ blockquote {
   background-color:#f7f7f7;
 }
 
+.clickable {
+    cursor: pointer;
+}
+
 .high-level-button:hover {
     background-color: #cdcdcd;
-    cursor: pointer;
+
 }
 .alternate {
   background-color:#f0f0f0;

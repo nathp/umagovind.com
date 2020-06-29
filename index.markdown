@@ -33,16 +33,16 @@ wordpress_id: 1
 </div>
 <br/>
 
-<div class="high-level-button" onclick="location.href='/about'">
+<div class="high-level-button">
 <br/>
-Uma Govind is a professional Bharata Natyam Dancer and Choreographer and Teacher.
+Uma Govind is a professional Bharata Natyam Dancer, Choreographer and Teacher.
 <br/>
 <br/>
 
- <li>A grade artist with National Doordarshan.</li>
- <li>Empannelled artist with SPICMACAY and ICCR.</li>
+ <li>Uma is an 'A' grade artist with National Doordarshan.</li>
+ <li>She is also an empannelled artist with <a href="https://spicmacay.org/" target="_blank">SPICMACAY</a> and <a href="https://www.iccr.gov.in/" target="_blank">ICCR</a>.</li>
 <br/>
-  ... more
+  ... <a href="/about"> more</a>
 </div>
 
 {% include top_level_button.html location="/services" title="Services" content="Uma conducts Recitals, Online Classes and Online Workshops." alt="y" %}
