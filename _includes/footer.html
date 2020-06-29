@@ -2,10 +2,11 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
+ {%- unless page.hide_navigation -%}
     <div class="bottom-navigation">
-      {% include mini_navig.html %} 
+      {% include mini_navig.html %}
     </div>
+ {%- endunless -%}
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">

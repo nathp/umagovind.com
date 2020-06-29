@@ -5,7 +5,8 @@ date: 2016-03-10 15:35:19+00:00
 layout: home
 link: http://umagovind.com/
 slug: home
-title: Uma Govind
+title:
+hide_navigation: true
 list_title: Workshops
 wordpress_id: 1
 ---
@@ -27,7 +28,25 @@ wordpress_id: 1
 >
 >Until there is only… the DANCE.
 
-<div style="width:150px;margin-left:auto;">
+<div class="poem-author" style="width:150px;margin-left:auto;">
   - Michael Jackson
 </div>
 <br/>
+
+<div class="high-level-button" onclick="location.href='/about'">
+<br/>
+Uma Govind is a professional Bharata Natyam Dancer and Choreographer and Teacher.
+<br/>
+<br/>
+
+ <li>A grade artist with National Doordarshan.</li>
+ <li>Empannelled artist with SPICMACAY and ICCR.</li>
+<br/>
+  ... more
+</div>
+
+{% include top_level_button.html location="/services" title="Services" content="Uma conducts Recitals, Online Classes and Online Workshops." alt="y" %}
+{% include top_level_button.html location="/performances" title="Performances" %}
+{% include top_level_button.html location="/reviews" title="Reviews" alt="y" %}
+{% include top_level_button.html location="/contact" title="Contact" %}
+{% include top_level_button.html location="/gallery" title="Gallery" alt="y" %}

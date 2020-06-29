@@ -349,6 +349,9 @@ tr:nth-child(even) td {
         border-radius: 5px;
         padding: 0.625em;
     }
+    .hide-on-desktop {
+      display:none;
+    }
 }
 
 @media all and (max-width: 870px) {
@@ -360,11 +363,13 @@ tr:nth-child(even) td {
     body {
         font-size: 1em;
     }
+    .hide-on-desktop {
+      display:none;
+    }
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 400px) {
     body {
-        font-family: 'Source Sans ProR', sans-serif;
         font-size: 1.1em;
         font-weight:300;
     }
@@ -373,6 +378,16 @@ tr:nth-child(even) td {
     h2 { font-size: 1.8em;  padding-top: 0.5em;}
     h3 { font-size: 1.5em;  padding-top: 0.5em;}
     h4 { font-size: 1.3em;  padding-top: 0.5em;}
+
+    .home blockquote {
+      display: none;
+    }
+    .poem-author {
+      display: none;
+    }
+    .hide-on-desktop {
+      display:block;
+    }
 
 }
 
@@ -543,4 +558,30 @@ blockquote {
 
 .footer-heading {
   font-size:larger;
+}
+
+.short_bio {
+  padding: 5px;
+  border-radius:5px;
+  background-color:#f7f7f7;
+}
+.short_bio li {
+  padding-left: 5px;
+}
+
+.high-level-button {
+  margin-top:10px;
+  margin-bottom:10px;
+  padding: 5px;
+  padding-left:10px;
+  border-radius:10px;
+  background-color:#f7f7f7;
+}
+
+.high-level-button:hover {
+    background-color: #cdcdcd;
+    cursor: pointer;
+}
+.alternate {
+  background-color:#f0f0f0;
 }

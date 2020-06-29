@@ -1,0 +1,12 @@
+{%- assign css_class = "high-level-button hide-on-desktop" -%}
+{%- if include.alt  -%}
+  {%- assign css_class = "high-level-button hide-on-desktop alternate" -%}
+{%- endif -%}
+
+
+<div class="{{css_class}}" onclick="location.href='{{include.location}}'">
+{%- if include.title  -%}
+    <h3>{{include.title}}</h3>
+{%- endif -%}
+  {{include.content}}
+</div>

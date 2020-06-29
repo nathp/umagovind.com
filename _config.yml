@@ -22,9 +22,10 @@ title: UMA GOVIND
 email: govindan.uma@gmail.com
 tagline: more about Uma
 description: >- # this means to ignore newlines until "baseurl:"
-   Uma Govind is a Bharata Natyam dancer.
+   Uma Govind is a professional Bharata Natyam dancer. She is an empanelled artist with ICCR and SPICMACAY.
+   She is also an "A" grade artist of National Doordarshan (Official Broadcaster of India)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "umagovind.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wwww.umagovind.com" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: "Asia/Kolkata"
 locale: en_IN
 show_excerpts: true
