@@ -385,6 +385,7 @@ tr:nth-child(even) td {
     .home blockquote {
       display: none;
     }
+
     .poem-author {
       display: none;
     }
@@ -536,7 +537,7 @@ blockquote {
   margin-bottom: 5px;
   padding-bottom:3px;
   padding-top:3px;
-  background-color: #f3f3f3;
+  font-size:1.3em;
 }
 
 .bottom-navigation ul  {
@@ -550,14 +551,18 @@ blockquote {
 }
 
 .bottom-navigation ul  li {
-  display:inline;
+  display:inherit;
+  background-color: #e8e8e8;
+  padding-bottom:5px;
+  margin-left:5px;
+  margin-right:5px;
 }
 
 .bottom-navigation ul  li a {
   text-align: center;
   padding: 8px 10px;
-  text-decoration: none;
-  font-size:medium;
+  text-decoration: underline;
+  font-size:large;
 }
 
 .footer-heading {
@@ -588,8 +593,8 @@ blockquote {
 
 .high-level-button:hover {
     background-color: #cdcdcd;
-
 }
+
 .alternate {
   background-color:#f0f0f0;
 }
