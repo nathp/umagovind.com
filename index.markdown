@@ -40,7 +40,7 @@ Uma Govind is a professional Bharata Natyam Dancer, Choreographer and Teacher.
 <br/>
 
  <li>Uma is an 'A' grade artist with National Doordarshan.</li>
- <li>She is also an empannelled artist with <a href="https://spicmacay.org/" target="_blank">SPICMACAY</a> and <a href="https://www.iccr.gov.in/" target="_blank">ICCR</a>.</li>
+ <li>She is also an empanelled artist with <a href="https://spicmacay.org/" target="_blank">SPICMACAY</a> and <a href="https://www.iccr.gov.in/" target="_blank">ICCR</a>.</li>
 <br/>
   ... <a href="/about"> more</a>
 </div>
