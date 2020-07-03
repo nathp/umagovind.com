@@ -33,7 +33,7 @@ Explore the list below to know more about the item.
   {% if date > now %}
   <li class="workshop excerpt" onclick="location.href='{{ post.url }}'" >
     <span class="workshop-title">{{ post.title }}</span>
-    {{ post.excerpt }}
+    {{ post.excerpt }} more ...
   </li>
   {% endif %}
 {% endfor %}
@@ -46,7 +46,7 @@ Explore the list below to know more about the item.
   {% if date <= now %}
   <li class="workshop excerpt" onclick="location.href='{{ post.url }}'" >
     <span class="workshop-title">{{ post.title }}</span>
-    {{ post.excerpt }}
+    {{ post.excerpt }} more ...
   </li>
   {% endif %}
 {% endfor %}

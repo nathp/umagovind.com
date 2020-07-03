@@ -5,7 +5,7 @@ workshop_date: 2020-07-24 17:00:00+05:30
 layout: post
 link: http://umagovind.com/2020/06/27/nataraja-stuthi-july-24-26.html
 slug: nataraja-stuthi-july-24-26
-title: Nataraja Stuthi - July 24 to 28
+title: Nataraja Stuthi - July 24, 25, 26 - 2020
 series: Nrtya Kalpanaa Series
 series_url: /nrtya-kalpanaa-workshops
 tempo:
