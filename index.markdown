@@ -45,6 +45,13 @@ Uma Govind is a professional Bharata Natyam Dancer, Choreographer and Teacher.
   ... <a href="/about"> more</a>
 </div>
 
+### What's new
+Online workshop - Learn a Nataraja Stuthi. <br/>
+July 24, 25, 26th (2020) <br/>
+See [more..](/2020/07/03/nataraja-stuthi-july-24-26.html)
+
+
+
 {% include top_level_button.html location="/services" title="Services" content="Uma conducts Recitals, Online Classes and Online Workshops." alt="y" %}
 {% include top_level_button.html location="/performances" title="Performances" %}
 {% include top_level_button.html location="/reviews" title="Reviews" alt="y" %}

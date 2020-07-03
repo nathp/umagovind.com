@@ -17,12 +17,13 @@ The item begins with the Chidambareshwara Stotram followed by a Jathi. The lyric
 
 It is a piece describing the Thandava Dance of Lord Shiva. The concept of Ardhanareeshwara and Navarasa are also explored in this.
 
-{% include soundcloud.html track_id="840420808"  %}
+{% include soundcloud.html track_id="851325529"  %}
 <br/>
 
 Audio and video will be provided as part of the course.
 
-{% include workshop_date.html when="July 24,25,26 2020; 5:00 to 6:30 pm IST" date="2020-07-24 10:17:44 +0000" %}
+{% include workshop_date.html when="July 24, 25, 26  2020; 5:00 to 6:30 pm IST" date="2020-07-24 10:17:44 +0000" %}
+
 
 ![](/assets/images/nataraja-stuthi.jpeg)
 <div/>
