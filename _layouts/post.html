@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<div id="search-searchbar"></div>
+<div id="search-hits"></div>
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -30,3 +32,4 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+{% include algolia.html %}
