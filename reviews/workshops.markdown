@@ -4,7 +4,7 @@ comments: false
 layout: page
 link: http://umagovind.com/reviews/workshops
 slug: reviews
-title: Reviews of participants
+title: Feedback on Online workshops and Classes
 ---
 
 {% include reviews.html %}

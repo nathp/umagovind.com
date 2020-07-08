@@ -31,10 +31,9 @@ wordpress_id: 1
 <div class="poem-author" style="width:150px;margin-left:auto;">
   - Michael Jackson
 </div>
-<br/>
 
-<div class="high-level-button">
-<br/>
+<div>
+
 Uma Govind is a professional Bharata Natyam Dancer, Choreographer and Teacher.
 <br/>
 <br/>
@@ -42,18 +41,19 @@ Uma Govind is a professional Bharata Natyam Dancer, Choreographer and Teacher.
  <li>Uma is an 'A' grade artist with National Doordarshan.</li>
  <li>She is also an empanelled artist with <a href="https://spicmacay.org/" target="_blank">SPICMACAY</a> and <a href="https://www.iccr.gov.in/" target="_blank">ICCR</a>.</li>
 <br/>
-  ... <a href="/about"> more</a>
+  ... <a href="/about"> more about Uma</a>
 </div>
-
+<p/>
 ### What's new
-Online workshop - Learn a Nataraja Stuthi. <br/>
+Online workshop - [Learn a Nataraja Stuthi](/2020/07/03/nataraja-stuthi-july-24-26.html). <br/>
 July 24, 25, 26th (2020) <br/>
-See [more..](/2020/07/03/nataraja-stuthi-july-24-26.html)
 
+<br/>
+{% include top_level_button.html location="/services#learn-bharata-natyam-via-online-classes" title="Online Classes" content="For beginners and seniors" alt="y" %}
+{% include top_level_button.html location="/nrtya-kalpanaa-workshops" title="Online Workshops" content="Learn an item online"  %}
 
-
-{% include top_level_button.html location="/services" title="Services" content="Uma conducts Recitals, Online Classes and Online Workshops." alt="y" %}
-{% include top_level_button.html location="/performances" title="Performances" %}
-{% include top_level_button.html location="/reviews" title="Reviews" alt="y" %}
-{% include top_level_button.html location="/contact" title="Contact" %}
-{% include top_level_button.html location="/gallery" title="Gallery" alt="y" %}
+<br/>
+{% include top_level_button.html location="/performances" title="Performances" alt="y"%}
+{% include top_level_button.html location="/reviews" title="Reviews" %}
+{% include top_level_button.html location="/contact" title="Contact" alt="y" %}
+{% include top_level_button.html location="/gallery" title="Gallery"  %}
