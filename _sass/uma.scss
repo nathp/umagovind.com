@@ -373,7 +373,8 @@ tr:nth-child(even) td {
 @media all and (max-width: 500px) {
     body {
         font-size: 1.2em;
-        font-weight:300;
+        font-weight:200;
+        font-family: "Segoe UI", "Graphik Web" ,"Helvetica Neue",Helvetica,Verdana,sans-serif
     }
 
     h1 { font-size: 2em;   padding-top: 0.5em; padding-bottom:0em; line-height: 0.9em;}

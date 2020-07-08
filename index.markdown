@@ -31,9 +31,8 @@ wordpress_id: 1
 <div class="poem-author" style="width:150px;margin-left:auto;">
   - Michael Jackson
 </div>
-
+<p/>
 <div>
-
 Uma Govind is a professional Bharata Natyam Dancer, Choreographer and Teacher.
 <br/>
 <br/>
