@@ -14,7 +14,7 @@ Uma conducts Bharata Natyam workshops online where a new choreography will be ta
 
 Workshops usually last 2 to 3 days, with each session being approx 1 hour and 30 minute duration. These are usually scheduled on weekends.
 
-You will be given the audio and video of the item. You can use the audio to perform for events.  
+You will be given the audio and video of the item. You can use the audio to perform the item at venues.
 
 You are expected to send video of your performance within a week after the workshop. Individual guidance will be provided based on this video.
 

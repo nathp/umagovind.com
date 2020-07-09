@@ -14,13 +14,21 @@ wordpress_id: 316
 Uma loves to showcase this great art form to interested audiences. Do [get in touch](/contact) to discuss further. <br><br>
 
 #### Learn Bharata Natyam via Online classes
-Uma conducts Bharatanatyam classes Online. Classes are open for beginners and seniors. Please get in touch to know more.<br><br>
+Uma conducts Bharatanatyam classes Online. <br/>
+Classes are open for beginners and seniors. Please get in touch to know more.<br><br>
 
 #### Learn Items via Online Workshops
-Uma conducts Online workshops periodically where participants can learn Bharata Natyam items. This is open to anyone who has at least a basic exposure to Bharata Natyam.  
+Uma conducts 2/3-day Online workshops periodically where participants can learn Bharata Natyam items.
+<br/>
+- Items are typically taught over 2 sessions of 1.5 hour duration each.
+<br/>
+- You will be given audio that you can use for performing this item.
+<p/>
 
-- **[More About Workshops](/nrtya-kalpanaa-workshops)**
-- **[Upcoming Workshops](/nrtya-kalpanaa-workshops/#upcoming-workshops)**
+Individual guidance and corrections will be provided.
+This is open to anyone who has at least a basic exposure to Bharata Natyam.  
+
+See **[Upcoming Workshops](/nrtya-kalpanaa-workshops/)**
 <br/>
 
 Please [contact](/contact) for more information.

@@ -71,13 +71,10 @@ a {
 }
 
 a:visited {
-    color: #222;
+    color: #2a7ae2;
 }
 a:hover {
     color: #06e;
-}
-a:active {
-    color:#000000;
 }
 
 /* --- Headers ------------------------------------------------------------- */
@@ -114,9 +111,9 @@ h4 { font-size: 1.5em;  padding-top: 0.5em;}
 
 /* h3, h4, h5, h6 { font-size: 1.00em; } */
 
-h1, h1 a, h1 a:visited,
-h2, h2 a, h2 a:visited,
-h3, h3 a, h3 a:visited {
+h1,
+h2,
+h3, {
     color: black;
 }
 h1 {
@@ -656,4 +653,9 @@ blockquote {
   background-color:#e8e8e8;
   border-radius:10px;
   padding-left:10px;
+}
+
+.payment-box {
+  border-radius:20px;
+  border: 1px solid;
 }
