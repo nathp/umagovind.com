@@ -57,11 +57,6 @@ defaults:
       image: true
 
 
-algolia:
-   application_id: '6X1KSL8VIY'
-   index_name: 'prod_umagovind.com'
-   search_only_api_key: '5734806a2062c667696361c2df5226c7'
-
   #webmaster_verifications:
   #google: 1234
   #bing: 1234
